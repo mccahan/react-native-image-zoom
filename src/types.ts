@@ -1,4 +1,5 @@
-import type { ImageProps, ImageSourcePropType } from 'react-native';
+import type { ImageSourcePropType } from 'react-native';
+import type { ImageProps } from 'expo-image';
 import type {
   GestureStateChangeEvent,
   PanGestureHandlerEventPayload,

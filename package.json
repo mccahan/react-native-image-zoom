@@ -181,5 +181,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "expo-image": "^1.5.1"
   }
 }
